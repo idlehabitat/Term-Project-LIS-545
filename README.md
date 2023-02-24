@@ -1,6 +1,8 @@
 # Term-Project-LIS-545
-A repository created for LIS 545: Data Curation I with Matthew Mayernik at the University of Washington.      
-  
+A repository created for LIS 545: Data Curation I with Matthew Mayernik at the University of Washington.  
+
+Contents of main:
+    
 **[Figshare Data](Figshare-Data)** (folder)   
  * [3104656](Figshare-Data/3104656) (folder)    
     * [S1 Appendix.docx](Figshare-Data/3104656/S1%20Appendix.docx)  
