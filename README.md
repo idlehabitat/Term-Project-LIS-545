@@ -19,4 +19,4 @@ Contents of main:
 * [Intermediate - Data and Metadata Profile.pdf](Reports/Intermediate%20-%20Data%20and%20Metadata%20Profile.pdf) - Data and Metadata Profile assignment analyzing the Figshare dataset referenced above
 * [Intermediate - Repository Profile.pdf](Reports/Intermediate%20-%20Repository%20Profile.pdf) - Repository Profile assignment analyzing Zenodo, an open repository
   
-[README.md](README.md) - this file
+[README.md](README.md) - this file, which lists and describes all of the other files included in the repository
