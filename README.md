@@ -3,8 +3,8 @@ This repository was created for LIS 545: Data Curation I with Matthew Mayernik a
 
 Contents of main:
     
-**[Figshare Data](Figshare-Data)** (folder)   
- * [3104656](Figshare-Data/3104656) (folder) - dataset originally uploaded to Figshare, pertaining to research presented in [If You're House Is Still Available.pdf](Figshare-Data/If%20You’re%20House%20Is%20Still%20Available.pdf); [link to Figshare dataset](https://figshare.com/articles/dataset/If_You_re_House_Is_Still_Available_Send_Me_an_Email_Personality_Influences_Reactions_to_Written_Errors_in_Email_Messages/3104656)     
+**[Figshare Data](Figshare-Data)** (folder) - data and information relating to [Figshare dataset](https://figshare.com/articles/dataset/If_You_re_House_Is_Still_Available_Send_Me_an_Email_Personality_Influences_Reactions_to_Written_Errors_in_Email_Messages/3104656)   
+ * [3104656](Figshare-Data/3104656) (folder) - dataset originally uploaded to Figshare, pertaining to research presented in [If You're House Is Still Available.pdf](Figshare-Data/If%20You’re%20House%20Is%20Still%20Available.pdf)    
     * [S1 Appendix.docx](Figshare-Data/3104656/S1%20Appendix.docx) - document that contains the email texts used in the research
     * [S1 Table.docx](Figshare-Data/3104656/S1%20Table.docx) - highlighted excerpts of the data from [S3 Appendix.csv](Figshare-Data/3104656/S3%20Appendix.csv)
     * [S2 Appendix.pdf](Figshare-Data/3104656/S2%20Appendix.pdf) - copy of an email from Richard Redman, of the Health Sciences and Behavioral Sciences Institutional Review Board at the University of Michigan
