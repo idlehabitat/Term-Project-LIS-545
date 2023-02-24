@@ -11,7 +11,7 @@ A repository created for LIS 545: Data Curation I with Matthew Mayernik at the U
     * [S3 Appendix.csv](Figshare-Data/3104656/S3%20Appendix.csv)  
     * [S3 Table.docx](Figshare-Data/3104656/S3%20Table.docx)  
 * [3104656.xml](Figshare-Data/3104656.xml)  
-* [If You're House Is Still Available.pdf](Figshare-Data/If%20You're%20House%20Is%20Still%20Available.pdf)  
+* [If You're House Is Still Available.pdf](Figshare-Data/If%20You’re%20House%20Is%20Still%20Available.pdf)  
   
 **Reports**
 * Final Report [Placeholder].md
