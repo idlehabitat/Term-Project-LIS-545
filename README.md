@@ -3,7 +3,7 @@ This repository was created for LIS 545: Data Curation I with Matthew Mayernik a
 
 Contents of main:
     
-**[Figshare Data](Figshare-Data)** (folder) - information related to a [Figshare dataset ](https://figshare.com/articles/dataset/If_You_re_House_Is_Still_Available_Send_Me_an_Email_Personality_Influences_Reactions_to_Written_Errors_in_Email_Messages/3104656) pertaining to research presented in [If You're House Is Still Available.pdf](Figshare-Data/If%20You’re%20House%20Is%20Still%20Available.pdf)   
+**[Figshare Data](Figshare-Data)** (folder) - information related to a [Figshare dataset ](https://figshare.com/articles/dataset/If_You_re_House_Is_Still_Available_Send_Me_an_Email_Personality_Influences_Reactions_to_Written_Errors_in_Email_Messages/3104656) pertaining to research presented on [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149885)  
  * [3104656](Figshare-Data/3104656) (folder) - dataset originally uploaded to Figshare    
     * [S1 Appendix.docx](Figshare-Data/3104656/S1%20Appendix.docx) - document that contains the email texts used in the research
     * [S1 Table.docx](Figshare-Data/3104656/S1%20Table.docx) - highlighted excerpts of the data from [S3 Appendix.csv](Figshare-Data/3104656/S3%20Appendix.csv)
