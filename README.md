@@ -8,7 +8,7 @@ A repository created for LIS 545: Data Curation I with Matthew Mayernik at the U
     * [S1 Table.docx](Figshare-Data/3104656/S1%20Table.docx)  
     * [S2 Appendix.pdf](Figshare-Data/3104656/S2%20Appendix.pdf)  
     * [S2 Table.docx](Figshare-Data/3104656/S2%20Table.docx)  
-    * [S3 Appendix.csv](Figshare-Data/3104656/S3%20Appendix.docx)  
+    * [S3 Appendix.csv](Figshare-Data/3104656/S3%20Appendix.csv)  
     * [S3 Table.docx](Figshare-Data/3104656/S3%20Table.docx)  
 * 3104656.xml  
 * If You're House Is Still Available.pdf  
