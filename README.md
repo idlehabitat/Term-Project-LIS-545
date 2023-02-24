@@ -4,7 +4,7 @@ A repository created for LIS 545: Data Curation I with Matthew Mayernik at the U
   
 **[Figshare Data](Figshare-Data)**  
  * [3104656](Figshare-Data/3104656) *folder*
-    * [S1 Appendix.docx](Figshare-Data/3104656/S1 Appendix.docx)  
+    * [S1 Appendix.docx]("Figshare-Data/3104656/S1 Appendix.docx")  
     * [S1 Table.docx]()  
     * [S2 Appendix.pdf]()  
     * [S2 Table.docx]()  
