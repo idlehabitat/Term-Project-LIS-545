@@ -2,7 +2,7 @@
 A repository created for LIS 545: Data Curation I with Matthew Mayernik at the University of Washington.    
 *A “README” file that lists and describes all of the other files that are included in the repository*   
   
-**[Figshare Data](Figshare Data)**  
+**[Figshare Data](Figshare-Data)**  
  * [3104656]() *folder*  
     * S1 Appendix.docx  
     * S1 Table.docx  
