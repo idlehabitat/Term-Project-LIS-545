@@ -4,12 +4,12 @@ A repository created for LIS 545: Data Curation I with Matthew Mayernik at the U
   
 **Figshare Data**  
  * 3104656  
-  * S1 Appendix  
-  * S1 Table  
-  * S2 Appendix  
-  * S2 Table  
-  * S3 Appendix  
-  * S3 Table  
+    * S1 Appendix  
+    * S1 Table  
+    * S2 Appendix  
+    * S2 Table  
+    * S3 Appendix  
+    * S3 Table  
 * 3104656  
 * If You're House Is Still Available  
   
