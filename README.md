@@ -1,5 +1,5 @@
 # Term-Project-LIS-545
-A repository created for LIS 545: Data Curation I with Matthew Mayernik at the University of Washington.  
+This repository was created for LIS 545: Data Curation I with Matthew Mayernik at the University of Washington.  
 
 Contents of main:
     
@@ -18,3 +18,5 @@ Contents of main:
 * [Final Report [Placeholder].md](Reports/Final%20Report%20[Placeholder].md)
 * [Intermediate - Data and Metadata Profile.pdf](Reports/Intermediate%20-%20Data%20and%20Metadata%20Profile.pdf)
 * [Intermediate - Repository Profile.pdf](Reports/Intermediate%20-%20Repository%20Profile.pdf)
+  
+  [README.md](README.md)
