@@ -8,6 +8,6 @@ Additional Information related to our course topics:
   * The original Figshare dataset is under [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 * A statement about any human subject considerations that apply to this data set       
     * S2 Appendix.pdf covers human subject considerations
-    * The [published article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149885) contains further information about anonymization
+    * The [published article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149885) does not explicitly address anonymization
     
 [Markdown Guide: Basic Syntax](https://www.markdownguide.org/basic-syntax)
