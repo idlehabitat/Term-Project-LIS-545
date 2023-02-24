@@ -1,5 +1,3 @@
-Your final report, which should include:    
-    
 Additional Information related to our course topics:    
 * A recommended data citation   
   * [Github: Referencing and citing content](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
