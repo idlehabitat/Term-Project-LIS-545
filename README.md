@@ -11,8 +11,8 @@ Contents of main:
     * [S2 Table.docx](Figshare-Data/3104656/S2%20Table.docx) - highlighted excerpts of the data from [S3 Appendix.csv](Figshare-Data/3104656/S3%20Appendix.csv)
     * [S3 Appendix.csv](Figshare-Data/3104656/S3%20Appendix.csv)  - table of collated information resulting from the research
     * [S3 Table.docx](Figshare-Data/3104656/S3%20Table.docx) - highlighted excerpts of the data from [S3 Appendix.csv](Figshare-Data/3104656/S3%20Appendix.csv)
-* [3104656.xml](Figshare-Data/3104656.xml)  
-* [If You're House Is Still Available.pdf](Figshare-Data/If%20You’re%20House%20Is%20Still%20Available.pdf)  
+* [3104656.xml](Figshare-Data/3104656.xml) - Figshare metadata from original dataset
+* [If You're House Is Still Available.pdf](Figshare-Data/If%20You’re%20House%20Is%20Still%20Available.pdf) - copy of the published article; not archived on Figshare, but shared here for context
   
 **[Reports](Reports)** (folder)  
 * [Final Report [Placeholder and Notes].md](Reports/Final%20Report%20[Placeholder%20and%20Notes].md)
