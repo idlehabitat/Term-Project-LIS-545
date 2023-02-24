@@ -14,9 +14,9 @@ Contents of main:
 * [3104656.xml](Figshare-Data/3104656.xml) - Figshare metadata from original dataset
 * [If You're House Is Still Available.pdf](Figshare-Data/If%20You’re%20House%20Is%20Still%20Available.pdf) - copy of the published article; not archived on Figshare, but shared here for context; [link to published article](https://doi.org/10.1371/journal.pone.0149885)
   
-**[Reports](Reports)** (folder)  
-* [Final Report [Placeholder and Notes].md](Reports/Final%20Report%20[Placeholder%20and%20Notes].md)
-* [Intermediate - Data and Metadata Profile.pdf](Reports/Intermediate%20-%20Data%20and%20Metadata%20Profile.pdf)
-* [Intermediate - Repository Profile.pdf](Reports/Intermediate%20-%20Repository%20Profile.pdf)
+**[Reports](Reports)** (folder) - includes required assignments  
+* [Final Report [Placeholder and Notes].md](Reports/Final%20Report%20[Placeholder%20and%20Notes].md) - currently contains notes on final report, will be replaced in final draft
+* [Intermediate - Data and Metadata Profile.pdf](Reports/Intermediate%20-%20Data%20and%20Metadata%20Profile.pdf) - Data and Metadata Profile assignment analyzing the Figshare dataset referenced above
+* [Intermediate - Repository Profile.pdf](Reports/Intermediate%20-%20Repository%20Profile.pdf) - Repository Profile assignment analyzing Zenodo, an open repository
   
-[README.md](README.md)
+[README.md](README.md) - this file
