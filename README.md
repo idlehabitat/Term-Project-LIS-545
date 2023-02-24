@@ -16,7 +16,7 @@ Contents of main:
   
 **[Reports](Reports)** (folder) - includes required assignments  
 * [Final Report [Placeholder and Notes].md](Reports/Final%20Report%20[Placeholder%20and%20Notes].md) - currently contains notes on final report, will be replaced in final draft
-* [Intermediate - Data and Metadata Profile.pdf](Reports/Intermediate%20-%20Data%20and%20Metadata%20Profile.pdf) - Data and Metadata Profile assignment analyzing the Figshare dataset referenced above
-* [Intermediate - Repository Profile.pdf](Reports/Intermediate%20-%20Repository%20Profile.pdf) - Repository Profile assignment analyzing Zenodo, an open repository
+* [Intermediate - Data and Metadata Profile.pdf](Reports/Intermediate%20-%20Data%20and%20Metadata%20Profile.pdf) - Data and Metadata Profile assignment analyzing the Figshare dataset referenced above; not corrected
+* [Intermediate - Repository Profile.pdf](Reports/Intermediate%20-%20Repository%20Profile.pdf) - Repository Profile assignment analyzing Zenodo, an open repository; not corrected
   
 [README.md](README.md) - this file, which lists and describes all of the other files included in the repository
