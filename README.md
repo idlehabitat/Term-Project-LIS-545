@@ -3,17 +3,17 @@ A repository created for LIS 545: Data Curation I with Matthew Mayernik at the U
 *A “README” file that lists and describes all of the other files that are included in the repository*   
   
 **Figshare Data**  
- * 3104656  
-    * S1 Appendix  
-    * S1 Table  
-    * S2 Appendix  
-    * S2 Table  
-    * S3 Appendix  
-    * S3 Table  
-* 3104656  
-* If You're House Is Still Available  
+ * 3104656 *folder*  
+    * S1 Appendix.docx  
+    * S1 Table.docx  
+    * S2 Appendix.pdf  
+    * S2 Table.docx  
+    * S3 Appendix.csv  
+    * S3 Table.docx  
+* 3104656.xml  
+* If You're House Is Still Available.pdf  
   
 **Reports**
-* Final Report [placeholder]
-* Data and Metadata Profile
-* Repository Profile
+* Final Report [Placeholder].md
+* Intermediate - Data and Metadata Profile.pdf
+* Intermediate - Repository Profile.pdf
