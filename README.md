@@ -19,4 +19,4 @@ Contents of main:
 * [Intermediate - Data and Metadata Profile.pdf](Reports/Intermediate%20-%20Data%20and%20Metadata%20Profile.pdf)
 * [Intermediate - Repository Profile.pdf](Reports/Intermediate%20-%20Repository%20Profile.pdf)
   
-  [README.md](README.md)
+[README.md](README.md)
