@@ -15,8 +15,8 @@ Contents of main:
 * [If You're House Is Still Available.pdf](Figshare-Data/If%20You’re%20House%20Is%20Still%20Available.pdf) - copy of the published article; not archived on Figshare, but shared here for context; [link to published article](https://doi.org/10.1371/journal.pone.0149885)
   
 **[Reports](Reports)** (folder) - includes required assignments  
-* [Final Report [Placeholder and Notes].md](Reports/Final%20Report%20[Placeholder%20and%20Notes].md) - currently contains notes on final report, will be replaced in final draft
-* [Intermediate - Data and Metadata Profile.pdf](Reports/Intermediate%20-%20Data%20and%20Metadata%20Profile.pdf) - Data and Metadata Profile assignment analyzing the Figshare dataset referenced above; not corrected
-* [Intermediate - Repository Profile.pdf](Reports/Intermediate%20-%20Repository%20Profile.pdf) - Repository Profile assignment analyzing Zenodo, an open repository; not corrected
+* [Additional Information](Reports/Additional%20Information.pdf) - includes a recommended citation, copyright information, human participant considerations, and preservation considerations
+* [Data and Metadata Profile.pdf](Reports/Data%20and%20Metadata%20Profile.pdf) - Data and Metadata Profile assignment analyzing the Figshare dataset referenced above; not corrected
+* [Repository Profile.pdf](Reports/Repository%20Profile.pdf) - Repository Profile assignment analyzing Zenodo, an open repository; not corrected
   
 [README.md](README.md) - this file, which lists and describes all of the other files included in the repository
