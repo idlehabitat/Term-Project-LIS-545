@@ -16,7 +16,7 @@ Contents of main:
   
 **[Reports](Reports)** (folder) - includes required assignments  
 * [Additional Information](Reports/Additional%20Information.pdf) - includes a recommended citation, copyright information, human participant considerations, and preservation considerations
-* [Data and Metadata Profile.pdf](Reports/Data%20and%20Metadata%20Profile.pdf) - Data and Metadata Profile assignment analyzing the Figshare dataset referenced above; not corrected
-* [Repository Profile.pdf](Reports/Repository%20Profile.pdf) - Repository Profile assignment analyzing Zenodo, an open repository; not corrected
+* [Data and Metadata Profile.pdf](Reports/Data%20and%20Metadata%20Profile.pdf) - Data and Metadata Profile assignment analyzing the Figshare dataset referenced above; reflects final revisions
+* [Repository Profile.pdf](Reports/Repository%20Profile.pdf) - Repository Profile assignment analyzing Zenodo, an open repository;  reflects final revisions
   
 [README.md](README.md) - this file, which lists and describes all of the other files included in the repository
